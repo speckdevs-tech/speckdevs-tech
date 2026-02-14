@@ -9,10 +9,12 @@
 ███████║██║     ███████╗╚██████╗██║  ██╗██║  ██║███████╗╚██████╔╝███████║
 ╚══════╝╚═╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 
+```yaml
 Founder: Yes
 Mission: Build scalable digital empires
 Focus: AI Systems + Startup Architecture
 Status: Shipping & Scaling 🚀
+
 
 🏴‍☠️ Founder Philosophy
 + Build assets, not income.
