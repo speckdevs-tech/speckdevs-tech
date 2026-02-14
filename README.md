@@ -116,5 +116,11 @@ We help:
 <p align="center">
   Built for scale ⚡ by SpeckDevs Tech
 </p>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<svg width="100%" height="120" viewBox="0 0 1440 320">
+  <path fill="#1e293b" fill-opacity="1"
+  d="M0,192L80,186.7C160,181,320,171,480,165.3C640,160,800,160,960,170.7C1120,181,1280,203,1360,213.3L1440,224V320H0Z">
+  </path>
+</svg>
+
