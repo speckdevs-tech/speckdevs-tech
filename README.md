@@ -24,19 +24,16 @@ Founder: Yes
 Mission: Build scalable digital empires
 Focus: AI Systems + Startup Architecture
 Status: Shipping & Scaling 🚀
+🏴‍☠️ Founder Philosophy
 + Build assets, not income.
 + Systems > Effort.
 + Code = Leverage.
 + Scale globally.
-SpeckDevs is a founder-led AI-powered development startup
-building scalable platforms, intelligent systems, and growth-focused digital infrastructure.
+SpeckDevs is a founder-led AI-powered development startup building scalable platforms, intelligent systems, and growth-focused digital infrastructure.
 
 We architect for scale from day one.
 
 🧬 AI + Startup Positioning
-
-We integrate:
-
 🤖 AI-driven automation
 
 ⚙️ Scalable backend systems
@@ -48,7 +45,6 @@ We integrate:
 🔐 Secure infrastructure-first builds
 
 🪙 Web3 & Future-Ready Systems
-
 Smart contract–ready backend architecture
 
 Token-ready product frameworks
@@ -56,6 +52,8 @@ Token-ready product frameworks
 Decentralized system compatibility
 
 API-first modular ecosystem
+
+⚡ Core Technology Stack
 const speckdevs = {
   frontend: ["React", "Next.js", "TailwindCSS"],
   backend: ["Node.js", "Express"],
@@ -64,29 +62,26 @@ const speckdevs = {
   infra: ["Docker", "Cloud Deployments"],
   architecture: "Scalable, Modular, Startup-Ready"
 };
-> 🚀 AI SaaS Infrastructure
-> 📦 Startup MVP Engine
-> 🛒 High-Performance Commerce Systems
-> 🤖 Internal Automation Platforms
-> 🌍 Scalable Web Platforms
+🚀 Currently Building
+> AI SaaS Infrastructure
+> Startup MVP Engine
+> High-Performance Commerce Systems
+> Internal Automation Platforms
+> Scalable Web Platforms
 🧪 Featured Systems
 🔹 Project Alpha
-
 AI-integrated full-stack scalable SaaS system.
 
 🔹 Project Nexus
-
 Performance-driven modern startup platform.
 
 🔹 Project Pulse
-
 Automation-first business infrastructure.
 
 🔹 Project Titan
-
 High-scale backend architecture system.
-📈 For Founders & Clients
 
+📈 For Founders & Clients
 We help:
 
 Early-stage founders launch MVPs
@@ -98,6 +93,7 @@ Startups build secure backend systems
 Brands create modern digital platforms
 
 Let’s build leverage.
+
 📊 GitHub Intelligence Dashboard
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speckdevs&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=speckdevs&theme=chartreuse-dark&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
 🌐 Network
