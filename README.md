@@ -47,12 +47,19 @@ Decentralized system compatibility
 
 API-first modular ecosystem
 
-##⚡ Core Technology Stack
-Frontend  → React | Next.js | Tailwind
-Backend   → Node | Express
-Database  → MongoDB | MySQL
-AI        → OpenAI | Automation
-Infra     → Docker | Cloud
+## ⚡ Core Technology Stack
+
+```javascript
+const speckdevs = {
+  frontend: ["React", "Next.js", "TailwindCSS"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB", "MySQL"],
+  AI: ["OpenAI APIs", "Automation Systems"],
+  infra: ["Docker", "Cloud Deployments"],
+  architecture: "Scalable, Modular, Startup-Ready"
+};
+```
+
 
 
 🚀 Currently Building
