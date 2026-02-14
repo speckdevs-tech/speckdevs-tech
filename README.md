@@ -107,7 +107,6 @@ We help:
 🌐 Network
 <!-- Add LinkedIn, Twitter, Website -->
 ---
----
 
 <p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=speckdevs-tech&theme=react-dark&hide_border=true&area=true" />
@@ -118,9 +117,8 @@ We help:
 </p>
 ---
 
-<svg width="100%" height="120" viewBox="0 0 1440 320">
-  <path fill="#1e293b" fill-opacity="1"
-  d="M0,192L80,186.7C160,181,320,171,480,165.3C640,160,800,160,960,170.7C1120,181,1280,203,1360,213.3L1440,224V320H0Z">
-  </path>
-</svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=80&section=footer&text=SpeckDevs%20Tech&fontSize=24&fontColor=ffffff" />
+</p>
+
 
