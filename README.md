@@ -16,15 +16,16 @@ Focus: AI Systems + Startup Architecture
 Status: Shipping & Scaling 🚀
 ```
 
+## 🏴‍☠️ Founder Philosophy
 
-🏴‍☠️ Founder Philosophy
-+ Build assets, not income.
-+ Systems > Effort.
-+ Code = Leverage.
-+ Scale globally.
-
+- Build assets, not income.
+- Systems > Effort.
+- Code = Leverage.
+- Scale globally.
 
 SpeckDevs is a founder-led AI-powered development startup building scalable platforms, intelligent systems, and growth-focused digital infrastructure.
+
+---
 
 We architect for scale from day one.
 
