@@ -113,12 +113,7 @@ We help:
 </p>
 
 <p align="center">
-  Built for scale ⚡ by SpeckDevs Tech
-</p>
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=80&section=footer&text=SpeckDevs%20Tech&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=80&section=footer&text=Built%20for%20scale%20⚡%20by%20SpeckDevs&fontSize=24&fontColor=ffffff" />
 </p>
 
 
