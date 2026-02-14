@@ -95,13 +95,15 @@ Brands create modern digital platforms
 
 Let’s build leverage.
 
-📊 GitHub Intelligence Dashboard
+## 📊 GitHub Intelligence Dashboard
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=speckdevs-tech&show_icons=true&theme=dark&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=speckdevs-tech&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=speckdevs-tech&theme=chartreuse-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs-tech&layout=compact&theme=dark&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs-tech&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 🌐 Network
