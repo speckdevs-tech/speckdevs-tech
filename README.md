@@ -27,29 +27,22 @@ SpeckDevs is a founder-led AI-powered development startup building scalable plat
 
 ---
 
-We architect for scale from day one.
+## 🧠 What We Build
 
-🧬 AI + Startup Positioning
+- 🧬 AI + Startup Positioning
+- 🤖 AI-driven automation
+- ⚙️ Scalable backend systems
+- 📊 Growth-focused analytics architecture
+- 🧠 Intelligent product workflows
+- 🔐 Secure infrastructure-first builds
 
-🤖 AI-driven automation
+### 🌐 Web3 & Future-Ready Systems
 
-⚙️ Scalable backend systems
+- Smart contract–ready backend architecture
+- Token-ready product frameworks
+- Decentralized system compatibility
+- API-first modular ecosystem
 
-📊 Growth-focused analytics architecture
-
-🧠 Intelligent product workflows
-
-🔐 Secure infrastructure-first builds
-
-🪙 Web3 & Future-Ready Systems
-
-Smart contract–ready backend architecture
-
-Token-ready product frameworks
-
-Decentralized system compatibility
-
-API-first modular ecosystem
 
 ## ⚡ Core Technology Stack
 
