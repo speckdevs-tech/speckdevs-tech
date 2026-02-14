@@ -1,6 +1,7 @@
 <!-- ELITE ANIMATED HEADER --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=SPECKDEVS+%7C+Elite+Founder+Startup;AI+%2B+Scalable+Systems+%2B+Digital+Assets;Building+Leverage+Through+Code;From+Idea+To+Dominant+Platform" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=speckdevs&label=PROFILE+VIEWS&color=00ff99&style=flat" /> </p>
 <h1>🧠 SPECKDEVS</h1>
 </br>
+
 ███████╗██████╗ ███████╗ ██████╗██╗  ██╗██████╗ ███████╗██╗   ██╗███████╗
 ██╔════╝██╔══██╗██╔════╝██╔════╝██║ ██╔╝██╔══██╗██╔════╝██║   ██║██╔════╝
 ███████╗██████╔╝█████╗  ██║     █████╔╝ ██████╔╝█████╗  ██║   ██║███████╗
@@ -95,7 +96,7 @@ Brands create modern digital platforms
 Let’s build leverage.
 
 📊 GitHub Intelligence Dashboard
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speckdevs&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=speckdevs&theme=chartreuse-dark&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speckdevs-tech&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=speckdevs&theme=chartreuse-dark&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
 🌐 Network
 <!-- Add LinkedIn, Twitter, Website -->
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:000000&height=140&section=footer"/> </p>
