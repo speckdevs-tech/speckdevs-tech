@@ -70,21 +70,18 @@ const speckdevs = {
 - Internal Automation Platforms  
 - Scalable Web Platforms  
 
-🧪 Featured Systems
-🔹 Project Alpha
+## 🧪 Featured Systems
 
+### 🔹 Project Alpha  
 AI-integrated full-stack scalable SaaS system.
 
-🔹 Project Nexus
-
+### 🔹 Project Nexus  
 Performance-driven modern startup platform.
 
-🔹 Project Pulse
-
+### 🔹 Project Pulse  
 Automation-first business infrastructure.
 
-🔹 Project Titan
-
+### 🔹 Project Titan  
 High-scale backend architecture system.
 
 ## 📈 For Founders & Clients
