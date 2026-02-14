@@ -104,8 +104,36 @@ We help:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs-tech&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
-🌐 Network
-<!-- Add LinkedIn, Twitter, Website -->
+## 🌐 Connect With SpeckDevs
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mohit-kumar-a80642343">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/MohitSpeckdevs">
+    <img src="https://img.shields.io/badge/X-@MohitSpeckdevs-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/speckdevs">
+    <img src="https://img.shields.io/badge/Instagram-@speckdevs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/@speckdevs">
+    <img src="https://img.shields.io/badge/YouTube-@speckdevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://www.speckdevs.com">
+    <img src="https://img.shields.io/badge/Website-speckdevs.com-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:speckdevs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-speckdevs@gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
 ---
 
 <p align="center">
