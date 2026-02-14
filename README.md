@@ -62,12 +62,13 @@ const speckdevs = {
 
 
 
-🚀 Currently Building
-> AI SaaS Infrastructure
-> Startup MVP Engine
-> High-Performance Commerce Systems
-> Internal Automation Platforms
-> Scalable Web Platforms
+## 🚀 Currently Building
+
+- AI SaaS Infrastructure  
+- Startup MVP Engine  
+- High-Performance Commerce Systems  
+- Internal Automation Platforms  
+- Scalable Web Platforms  
 
 🧪 Featured Systems
 🔹 Project Alpha
