@@ -86,19 +86,17 @@ Automation-first business infrastructure.
 
 High-scale backend architecture system.
 
-##📈 For Founders & Clients
+## 📈 For Founders & Clients
 
 We help:
 
-Early-stage founders launch MVPs
+- Early-stage founders launch MVPs
+- Businesses scale with automation
+- Startups build secure backend systems
+- Brands create modern digital platforms
 
-Businesses scale with automation
+**Let’s build leverage.**
 
-Startups build secure backend systems
-
-Brands create modern digital platforms
-
-Let’s build leverage.
 
 ## 📊 GitHub Intelligence Dashboard
 
