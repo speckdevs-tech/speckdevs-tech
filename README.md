@@ -1,7 +1,7 @@
 <!-- ELITE ANIMATED HEADER --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=SPECKDEVS+%7C+Elite+Founder+Startup;AI+%2B+Scalable+Systems+%2B+Digital+Assets;Building+Leverage+Through+Code;From+Idea+To+Dominant+Platform" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=speckdevs&label=PROFILE+VIEWS&color=00ff99&style=flat" /> </p>
 
 ## 🧠 SpeckDevs
-```bash
+```yaml
 
  ____  ____  _____ ____ _  ______  _______     ______  
 / ___||  _ \| ____/ ___| |/ /  _ \| ____\ \   / / ___| 
