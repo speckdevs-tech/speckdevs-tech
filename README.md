@@ -107,6 +107,11 @@ We help:
 🌐 Network
 <!-- Add LinkedIn, Twitter, Website -->
 ---
+---
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=speckdevs-tech&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 <p align="center">
   Built for scale ⚡ by SpeckDevs Tech
