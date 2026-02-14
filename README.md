@@ -96,9 +96,6 @@ Brands create modern digital platforms
 Let’s build leverage.
 
 📊 GitHub Intelligence Dashboard
-## 📊 GitHub Intelligence Dashboard
-
-## 📊 GitHub Intelligence Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=speckdevs-tech&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
