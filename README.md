@@ -1,17 +1,5 @@
-<!-- ELITE ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=SPECKDEVS+%7C+Elite+Founder+Startup;AI+%2B+Scalable+Systems+%2B+Digital+Assets;Building+Leverage+Through+Code;From+Idea+To+Dominant+Platform" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=speckdevs&label=PROFILE+VIEWS&color=00ff99&style=flat" />
-</p>
-
----
-
-# 🧠 SPECKDEVS
-
-```bash
+<!-- ELITE ANIMATED HEADER --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=SPECKDEVS+%7C+Elite+Founder+Startup;AI+%2B+Scalable+Systems+%2B+Digital+Assets;Building+Leverage+Through+Code;From+Idea+To+Dominant+Platform" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=speckdevs&label=PROFILE+VIEWS&color=00ff99&style=flat" /> </p>
+🧠 SPECKDEVS
 ███████╗██████╗ ███████╗ ██████╗██╗  ██╗██████╗ ███████╗██╗   ██╗███████╗
 ██╔════╝██╔══██╗██╔════╝██╔════╝██║ ██╔╝██╔══██╗██╔════╝██║   ██║██╔════╝
 ███████╗██████╔╝█████╗  ██║     █████╔╝ ██████╔╝█████╗  ██║   ██║███████╗
@@ -19,21 +7,24 @@
 ███████║██║     ███████╗╚██████╗██║  ██╗██║  ██║███████╗╚██████╔╝███████║
 ╚══════╝╚═╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 
-
 Founder: Yes
 Mission: Build scalable digital empires
 Focus: AI Systems + Startup Architecture
 Status: Shipping & Scaling 🚀
+
 🏴‍☠️ Founder Philosophy
 + Build assets, not income.
 + Systems > Effort.
 + Code = Leverage.
 + Scale globally.
+
+
 SpeckDevs is a founder-led AI-powered development startup building scalable platforms, intelligent systems, and growth-focused digital infrastructure.
 
 We architect for scale from day one.
 
 🧬 AI + Startup Positioning
+
 🤖 AI-driven automation
 
 ⚙️ Scalable backend systems
@@ -45,6 +36,7 @@ We architect for scale from day one.
 🔐 Secure infrastructure-first builds
 
 🪙 Web3 & Future-Ready Systems
+
 Smart contract–ready backend architecture
 
 Token-ready product frameworks
@@ -62,26 +54,33 @@ const speckdevs = {
   infra: ["Docker", "Cloud Deployments"],
   architecture: "Scalable, Modular, Startup-Ready"
 };
+
 🚀 Currently Building
 > AI SaaS Infrastructure
 > Startup MVP Engine
 > High-Performance Commerce Systems
 > Internal Automation Platforms
 > Scalable Web Platforms
+
 🧪 Featured Systems
 🔹 Project Alpha
+
 AI-integrated full-stack scalable SaaS system.
 
 🔹 Project Nexus
+
 Performance-driven modern startup platform.
 
 🔹 Project Pulse
+
 Automation-first business infrastructure.
 
 🔹 Project Titan
+
 High-scale backend architecture system.
 
 📈 For Founders & Clients
+
 We help:
 
 Early-stage founders launch MVPs
