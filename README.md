@@ -102,4 +102,4 @@ Let’s build leverage.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speckdevs&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=speckdevs&theme=chartreuse-dark&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speckdevs&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
 🌐 Network
 <!-- Add LinkedIn, Twitter, Website -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:000000&height=140&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:000000&height=140&section=footer"/> </p>
